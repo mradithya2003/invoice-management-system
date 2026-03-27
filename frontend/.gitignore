@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+dist/
+.env
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,22 @@
+# Invoice Management System - Root .gitignore
+
+# Environment files
+.env
+*.env
+
+# Backend vendor
+backend/vendor/
+
+# Frontend build output and dependencies
+frontend/node_modules/
+frontend/dist/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
